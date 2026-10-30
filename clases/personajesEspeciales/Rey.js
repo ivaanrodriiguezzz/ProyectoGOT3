@@ -1,4 +1,3 @@
-
 import { Personaje } from "../Personaje.js";
 
 export class Rey extends Personaje{
